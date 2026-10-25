@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Alina, a Junior Frontend / Full-Stack Web Developer building modern web applications with React, TypeScript, JavaScript, Node.js, Express.js, and MongoDB.
+Hi, I'm Alina, a Frontend / Full-Stack Web Developer building modern web applications with React, TypeScript, JavaScript, Node.js, Express.js, and MongoDB.
 
 My main focus is frontend development with React and TypeScript, supported by hands-on experience with backend APIs, testing, accessibility, deployment, and CI/CD. I build and maintain self-directed web projects, including ZNAC, a live full-stack content management application.
 
