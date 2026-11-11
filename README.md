@@ -36,35 +36,29 @@ Also familiar with: React Native, Expo, Expo Router, SQLite, Zustand, Zod, Vites
 
 ## Featured Projects
 
-### ZNAC
+### ZNAC [Live](https://znac.org) | [Frontend](https://github.com/AlinaZolotavina/znac) | [Backend API](https://github.com/AlinaZolotavina/znac-api) | [Infrastructure](https://github.com/AlinaZolotavina/znac-project)
 
 Live full-stack content management app built with React, Node.js, Express.js, and MongoDB. Includes authentication, admin tools, image uploads, search, and filtering, with Docker deployment and GitHub Actions CI/CD.
 
-[Live](https://znac.org) | [Frontend](https://github.com/AlinaZolotavina/znac) | [Backend API](https://github.com/AlinaZolotavina/znac-api) | [Infrastructure](https://github.com/AlinaZolotavina/znac-project)
+### Christmas Studio [Demo](https://alinazolotavina.github.io/christmas-studio/) | [Source](https://github.com/AlinaZolotavina/christmas-studio)
 
-### ZNAC Timer
+A web-based design editor for creating personalized Christmas printables, including Advent calendar tags and postcards, with customizable layouts and PDF export.
+
+### ZNAC Timer [Source](https://github.com/ni-sirius/znacTimer/tree/main/projects/znac-expo)
 
 Mobile adaptation of an existing desktop time tracker, built with React Native and Expo through vibe coding. Tracks working hours, breaks, and overtime with local SQLite storage. In active development.
 
-[Source](https://github.com/ni-sirius/znacTimer/tree/main/projects/znac-expo)
-
-### Email Template Studio
+### Email Template Studio [Demo](https://alinazolotavina.github.io/email-template-studio/) | [Source](https://github.com/AlinaZolotavina/email-template-studio)
 
 React and TypeScript email template editor created through vibe coding with OpenAI Codex. Supports content and style customization, desktop/mobile previews, and HTML export with table-based layouts and inline CSS. In active development.
 
-[Demo](https://alinazolotavina.github.io/email-template-studio/) | [Source](https://github.com/AlinaZolotavina/email-template-studio)
+### Interactive Browser Games - React Applications
 
-### FIND PAIR
+Browser-based React games with TypeScript, reusable components, routing, state management, responsive UI, and automated tests with Jest and React Testing Library.
 
-Responsive memory game built with React and Jest, migrated from JavaScript to TypeScript.
+- Find pair [Demo](https://alinazolotavina.github.io/find-pair/) | [Source](https://github.com/AlinaZolotavina/find-pair)
 
-[Demo](https://alinazolotavina.github.io/find-pair/) | [Source](https://github.com/AlinaZolotavina/find-pair)
-
-### TIC-TAC-TOE
-
-Responsive Tic-Tac-Toe game built with React, TypeScript, and Jest. Includes tested game logic and custom interface assets designed in Figma and Adobe Illustrator.
-
-[Demo](https://alinazolotavina.github.io/tic-tac-toe/) | [Source](https://github.com/AlinaZolotavina/tic-tac-toe)
+- Tic-Tac-Toe [Demo](https://alinazolotavina.github.io/tic-tac-toe/) | [Source](https://github.com/AlinaZolotavina/tic-tac-toe)
 
 ## Current Focus
 
